@@ -1,5 +1,7 @@
 # README
 
+![Logo](https://i.guim.co.uk/img/media/0d394c339052c8a4e2a67db414464c5b46fd047c/0_303_3196_1917/master/3196.jpg?width=620&quality=85&auto=format&fit=max&s=b93ae0e73f98272ff5043fc7a09a9efa)
+
 ## About
 Source code repository can be found [here](https://github.com/broadinstitute/picard).
 
