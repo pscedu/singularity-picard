@@ -30,7 +30,7 @@ To unload the module, type
 
 Documentation
 -------------
-https://github.com/pezmaster31/picard/wiki
+https://broadinstitute.github.io/picard/
 
 For help, type
 
@@ -38,7 +38,7 @@ For help, type
 
 Repository
 ----------
-https://github.com/pezmaster31/picard
+https://github.com/broadinstitute/picard
 
 Tools included in this module are
 
