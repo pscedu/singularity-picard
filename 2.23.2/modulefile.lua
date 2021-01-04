@@ -20,11 +20,11 @@ Description
 -----------
 Picard is a set of command line tools for manipulating high-throughput sequencing (HTS) data and formats such as SAM/BAM/CRAM and VCF.
 
-To load the module type
+To load the module, type
 
 > module load picard/2.23.2
 
-To unload the module type
+To unload the module, type
 
 > module unload picard/2.23.2
 
@@ -34,7 +34,7 @@ https://github.com/pezmaster31/picard/wiki
 
 For help, type
 
->
+> picard --help
 
 Repository
 ----------
