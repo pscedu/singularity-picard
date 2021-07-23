@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/github/license/pscedu/singularity-picard)
 
 # singularity-picard
-Singularity recipe for [Picard](https://github.com/sandialabs/PIGER).
+Singularity recipe for [Picard](https://github.com/broadinstitute/picard).
 
 ## Installing the container on Bridges 2
 Copy the
