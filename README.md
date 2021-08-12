@@ -13,7 +13,7 @@ Singularity recipe for [Picard](https://github.com/sandialabs/PIGER).
 Copy the
 
 * `SIF` file
-* and the Perl scripts
+* and the `picard` script
 
 to `/opt/packages/picard/2.23.2`.
 
